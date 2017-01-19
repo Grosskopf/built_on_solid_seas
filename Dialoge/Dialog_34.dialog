@@ -1,0 +1,28 @@
+CharacterName:
+Lucia
+Dependencies:
+28
+Dependenciespoints:
+0
+Mainfield:
+Hey * das ist ja wundervoll lieb von dir dass du uns Helfen willst, ich hab dir mal aufgezeichnet wie hoch ich eine Rampe maximal machen würde, damit ich da rüber käm, kannst du die Höhe berechnen?
+AnswerW:
+Was soll ich für dich Tun?
+AnswerA:
+Ok, mach ich
+AnswerD:
+Gerade nicht, bis bald
+Backtalk1:
+
+Backtalk2:
+Ich brauche die Höhe der Stufe, die anderen Längen hab ich dir aufgescrieben, ich hoffe du krichst das hin :)
+Item1:
+12
+blueprint.png
+Aufgabe
+Item2:
+1
+
+
+Type:
+0

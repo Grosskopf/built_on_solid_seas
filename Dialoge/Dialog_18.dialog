@@ -1,0 +1,28 @@
+CharacterName:
+Maik
+Dependencies:
+16
+Dependenciespoints:
+50
+Mainfield:
+Hey, kannst du mir Helfen? ich brauche ein paar Flächeninhalte für Einen Schnitt
+AnswerW:
+Was soll ich für dich Tun?
+AnswerA:
+Ok, mach ich
+AnswerD:
+Gerade nicht, bis bald
+Backtalk1:
+Danke für die Arbeit, aber du hast da noch Fehler gemacht, bitte korrigiere die noch schnell
+Backtalk2:
+Ich will ein Hemd nähen, ich hab die Teile alle ausgelegt, aber ich muss halt noch wissen, welche Menge an Stoff ich dafür kaufen muss, die sollst du ausr
+Item1:
+3
+blueprint.png
+Aufgabe
+Item2:
+1
+blueprint.png
+Aufgabe
+Type:
+0

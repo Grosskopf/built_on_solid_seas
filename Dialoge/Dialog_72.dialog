@@ -1,0 +1,29 @@
+CharacterName:
+Lucia
+Dependencies:
+Dependenciespoints:
+3000
+Actions:
+0
+Mainfield:
+Hey *, ich vermisse die Sportplätze schon lange, ich hab da eine persönliche bitte an dich. Ich hab einen Sportplatz entworfen, und mir fehlt noch die Länge des ganzen, kannst du vielleicht diese Länge ausrechnen?
+AnswerW:
+Was soll ich für dich Tun?
+AnswerA:
+Ok, mach ich
+AnswerD:
+Gerade nicht, bis bald
+Backtalk1:
+
+Backtalk2:
+Einfach über den Umfang die Längen der Kurven berechnen, und dann die Längen dazwischen berechnen
+Item1:
+58
+blueprint.png
+Aufgabe
+Item2:
+1
+
+
+Type:
+0

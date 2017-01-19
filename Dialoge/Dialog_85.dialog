@@ -1,0 +1,30 @@
+CharacterName:
+Angie
+Dependencies:
+82
+Dependenciespoints:
+0
+Actions:
+0
+Mainfield:
+Hallo * fühl dich wie zuhause
+AnswerW:
+Kannst du mir helfen?
+AnswerA:
+Hier, ich hab es fertig
+AnswerD:
+Bin noch nicht fertig, bis bald
+Backtalk1:
+Oh das passt irgendwie nicht, dann würde ich ja den Topf in einer ganz anderen Zeit voll bekommen
+Backtalk2:
+Vielleicht kann dir Jessica helfen? die weiss bei solchen Fragen oft Bescheid
+Item1:
+1
+blueprint.png
+Aufgabe
+Item2:
+83
+blueprint.png
+Aufgabe
+Type:
+2

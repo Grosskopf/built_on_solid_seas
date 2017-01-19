@@ -1,0 +1,30 @@
+CharacterName:
+Anja
+Dependencies:
+74
+Dependenciespoints:
+0
+Actions:
+0
+Mainfield:
+Hallo * willkommen daheim :)
+AnswerW:
+Kannst du mir helfen?
+AnswerA:
+Hier, ich hab es fertig
+AnswerD:
+Bin noch nicht fertig, bis bald
+Backtalk1:
+Oh, ich glaub da passt was nicht ganz, kannst du nochmal drüberschauen?
+Backtalk2:
+Vielleicht kann dir Jessica helfen? die weiss bei solchen Fragen oft Bescheid
+Item1:
+1
+blueprint.png
+Aufgabe
+Item2:
+81
+blueprint.png
+Aufgabe
+Type:
+2

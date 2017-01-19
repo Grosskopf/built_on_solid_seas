@@ -1,0 +1,26 @@
+CharacterName:
+Mina
+Dependencies:
+37
+Mainfield:
+Hallo *, ich brauche deine Hilfe, kannst du mir helfen für das Schleusentor die letzten Längen zu berechnen? mir fehlen da ein paar längen.
+AnswerW:
+Was soll ich für dich Tun?
+AnswerA:
+Ok, mach ich
+AnswerD:
+Gerade nicht, bis bald
+Backtalk1:
+Danke für die Arbeit, aber du hast da noch Fehler gemacht, bitte korrigiere die noch schnell
+Backtalk2:
+Ich brauche die beiden Längen an den Enden, die sind wegen dem Gewicht etwas unterschiedlich, dürfte aber für dich kein Problem sein oder?
+Item1:
+1
+blueprint.png
+Aufgabe
+Item2:
+1
+blueprint.png
+Aufgabe
+Type:
+0

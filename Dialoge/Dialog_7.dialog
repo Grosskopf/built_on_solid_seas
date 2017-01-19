@@ -1,0 +1,25 @@
+CharacterName:
+Angie
+Dependencies:
+Mainfield:
+Hey *, Kann ich dir was gutes tun?
+AnswerW:
+Wie geht es dir denn so?
+AnswerA:
+danke Angie, gerade nicht
+AnswerD:
+Ich muss los, bis bald
+Backtalk1:
+ach immer wieder gern, auf Wiedersehen
+Backtalk2:
+Ach ganz gut, ganz gut, mir wird schon nicht langweilig hier :D
+Item1:
+0
+blueprint.png
+Aufgabe
+Item2:
+0
+blueprint.png
+Aufgabe
+Type:
+1

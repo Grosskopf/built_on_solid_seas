@@ -1,0 +1,28 @@
+CharacterName:
+Jessica
+Dependencies:
+39
+Dependenciespoints:
+1000
+Mainfield:
+Hallo *, bist du bereit für deine Testaufgaben? die sind ein wenig länger aber du krichst die schon hin
+AnswerW:
+Was soll ich für dich Tun?
+AnswerA:
+Ok, mach ich
+AnswerD:
+Gerade nicht, bis bald
+Backtalk1:
+Danke für die Arbeit, aber du hast da noch Fehler gemacht, bitte korrigiere die noch schnell
+Backtalk2:
+Berechne einfach die Längen und Flächen der Aufgabe
+Item1:
+16
+blueprint.png
+Aufgabe
+Item2:
+1
+blueprint.png
+Aufgabe
+Type:
+0

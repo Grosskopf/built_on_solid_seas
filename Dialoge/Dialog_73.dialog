@@ -1,0 +1,30 @@
+CharacterName:
+Fritz
+Dependencies:
+69
+Dependenciespoints:
+4000
+Actions:
+0
+Mainfield:
+Hey *, ich hab vor ne Folie für meine Sonnenbrille zu bestellen, kannst du mir helfen die Fläche auszurechnen die ich zur verfügung hab?
+AnswerW:
+Was soll ich für dich Tun?
+AnswerA:
+Ok, mach ich
+AnswerD:
+Gerade nicht, bis bald
+Backtalk1:
+
+Backtalk2:
+Einfach über den Umfang die Längen der Kurven berechnen, und dann die Längen dazwischen berechnen
+Item1:
+82
+blueprint.png
+Aufgabe
+Item2:
+1
+
+
+Type:
+0

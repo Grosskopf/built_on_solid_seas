@@ -1,0 +1,28 @@
+CharacterName:
+Torben
+Dependencies:
+28
+Dependenciespoints:
+0
+Mainfield:
+Hey, wenn wir das alte Fabrikgelände nutzen wollen, müssen wir ja das Wasser aus der Grube entfernen, dafür braucht es ein Tor, vielleicht kannst du mir Helfen die letzte Länge zu berechnen?
+AnswerW:
+Was soll ich für dich Tun?
+AnswerA:
+Ok, mach ich
+AnswerD:
+Gerade nicht, bis bald
+Backtalk1:
+
+Backtalk2:
+Ich brauche die Länge der fehlenden Queerstrebe, das solltest du mit dem Satz des Pythagoras schon irgendwie hinkriegen :)
+Item1:
+10
+blueprint.png
+Aufgabe
+Item2:
+1
+
+
+Type:
+0

@@ -1,0 +1,30 @@
+CharacterName:
+Angie
+Dependencies:
+63
+Dependenciespoints:
+0
+Actions:
+0
+Mainfield:
+Hallo *, du ich brauch ein bischen Hilfe, ich will in der Küche die Rohre austauschen, aber man kann die ja nur mit Radius oder durchmesser bestellen, kannst du mir sowas ausrechnen?
+AnswerW:
+Was soll ich für dich Tun?
+AnswerA:
+Ok, mach ich
+AnswerD:
+Gerade nicht, bis bald
+Backtalk1:
+
+Backtalk2:
+Wenn du magst geb ich dir die Zeichnung mit, vielen lieben Dank schonmal im vorraus
+Item1:
+71
+blueprint.png
+Aufgabe
+Item2:
+1
+
+
+Type:
+0

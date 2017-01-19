@@ -1,0 +1,25 @@
+CharacterName:
+Fritz
+Dependencies:
+Mainfield:
+Hey du, ich bin grad leider ziemlich beschäftigt, ich krich diese eine Zeile Programmcode einfach nicht geschrieben, irgendwo muss da ein Fehler sein, aber wo?
+AnswerW:
+Wie meinst du das genau?
+AnswerA:
+ok.. dir noch viel Erfolg Fritz
+AnswerD:
+Ich muss los, bis bald
+Backtalk1:
+Danke *, werd ich brauchen :D
+Backtalk2:
+Schau mal, ich schreibe eine Zahl in einen Speicher, und lese sie zwei mal, und beim Zweiten mal ist sie anders, normal ist das nicht, ich weiss nur nicht warum und wann sie sich ändert, aber das ist ja leider nicht dein Thema...
+Item1:
+0
+blueprint.png
+Aufgabe
+Item2:
+0
+blueprint.png
+Aufgabe
+Type:
+1

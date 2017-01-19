@@ -1,0 +1,29 @@
+CharacterName:
+Jessica
+Dependencies:
+Dependenciespoints:
+2500
+Actions:
+0
+Mainfield:
+Hallo *, ich hab gehört wie gut du diese ganzen Aufgaben kannst, ich hab vielleicht vor dir die nächsten Herrausforderungen zu geben, vielleicht kannst du ja diese letzte Aufgabe noch ausrechnen?
+AnswerW:
+Was soll ich für dich Tun?
+AnswerA:
+Ok, mach ich
+AnswerD:
+Gerade nicht, bis bald
+Backtalk1:
+
+Backtalk2:
+Nimm am besten Höhen- und Kathetensätze, damit geht das relativ einfach
+Item1:
+41
+blueprint.png
+Aufgabe
+Item2:
+1
+
+
+Type:
+0

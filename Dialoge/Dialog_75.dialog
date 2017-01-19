@@ -1,0 +1,30 @@
+CharacterName:
+Mina
+Dependencies:
+63
+Dependenciespoints:
+0
+Actions:
+0
+Mainfield:
+Hey, mir fehlt noch was um die Rohre stabiler legen zu können, magst du mir helfen die Fläche auszurechnen?
+AnswerW:
+Was soll ich für dich Tun?
+AnswerA:
+Ok, mach ich
+AnswerD:
+Gerade nicht, bis bald
+Backtalk1:
+
+Backtalk2:
+Berechne einfach die Fläche, du findest schon die passenden Werte
+Item1:
+79
+blueprint.png
+Aufgabe
+Item2:
+1
+
+
+Type:
+0

@@ -1,0 +1,30 @@
+CharacterName:
+Mina
+Dependencies:
+63
+Dependenciespoints:
+0
+Actions:
+0
+Mainfield:
+Hey, ich glaub Torben würde warscheinlich noch diesen Winkel vergessen, kannst du den nachrechnen?
+AnswerW:
+Was soll ich für dich Tun?
+AnswerA:
+Ok, mach ich
+AnswerD:
+Gerade nicht, bis bald
+Backtalk1:
+
+Backtalk2:
+Berechne einfach den letzten Winkel :)
+Item1:
+57
+blueprint.png
+Aufgabe
+Item2:
+1
+
+
+Type:
+0

@@ -1,0 +1,27 @@
+CharacterName:
+Torben
+Dependencies:
+Dependenciespoints:
+150
+Mainfield:
+Hallo *, kannst du mir vielleicht helfen? Mir läuft gerade die Zeit davon und ich muss noch ein paar Längen berechnen, aber du kennst dich ja mit Quadraten aus
+AnswerW:
+Was soll ich für dich Tun?
+AnswerA:
+Ok, mach ich
+AnswerD:
+Gerade nicht, bis bald
+Backtalk1:
+
+Backtalk2:
+Berechne mir die Kantenlängen, ich brauch die für Wände
+Item1:
+6
+blueprint.png
+Aufgabe
+Item2:
+1
+
+
+Type:
+0

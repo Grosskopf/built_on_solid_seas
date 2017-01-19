@@ -1,0 +1,30 @@
+CharacterName:
+Jessica
+Dependencies:
+57
+Dependenciespoints:
+0
+Actions:
+0
+Mainfield:
+Hey, ich hab eine Private Bitte an dich, ich überlege ob es vielleicht Klug wäre einen Leuchtturm aufzubauen, um in die Ferne schauen zu können
+AnswerW:
+Was soll ich für dich Tun?
+AnswerA:
+Ok, mach ich
+AnswerD:
+Gerade nicht, bis bald
+Backtalk1:
+Danke für die Arbeit, aber du hast da noch Fehler gemacht, bitte korrigiere die noch schnell
+Backtalk2:
+Berechne die Distanz, die man mit dem Leuchtturm überschauen kann, sollte nicht allzu schwer sein
+Item1:
+36
+blueprint.png
+Aufgabe
+Item2:
+36
+blueprint.png
+Aufgabe
+Type:
+0

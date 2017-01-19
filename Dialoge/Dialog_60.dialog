@@ -1,0 +1,30 @@
+CharacterName:
+Mina
+Dependencies:
+57
+Dependenciespoints:
+0
+Actions:
+0
+Mainfield:
+Hey *, ich hab gehört, du hast schon von Torben dein erstes Werkzeug bekommen? ich hab da noch ein paar verbesserungen, die dir vielleicht helfen könnten, mir fehlt nur noch eine Länge, kannst du die eben berechnen?
+AnswerW:
+Was soll ich für dich Tun?
+AnswerA:
+Ok, mach ich
+AnswerD:
+Gerade nicht, bis bald
+Backtalk1:
+
+Backtalk2:
+Berechne am besten mit dem Kathetensatz diese letzte Länge
+Item1:
+39
+blueprint.png
+Aufgabe
+Item2:
+1
+
+
+Type:
+0

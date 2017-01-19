@@ -1,0 +1,30 @@
+CharacterName:
+Jessica
+Dependencies:
+62
+Dependenciespoints:
+0
+Actions:
+0
+Mainfield:
+Hast du die Aufgaben erledigt?
+AnswerW:
+Kannst du mir helfen?
+AnswerA:
+Hier, ich hab es fertig
+AnswerD:
+Bin noch nicht fertig, bis bald
+Backtalk1:
+Oh, schade, du hast da noch Fehler gemacht, bitte korrigiere die noch schnell
+Backtalk2:
+Schau am besten nochmal nach, ob du den Höhen oder den Kathetensatz bei den einzelnen Längen brauchst, und guck genau welche linien jetzt gemeint sind, die Zeichnung ist ein wenig ungenau
+Item1:
+1
+
+
+Item2:
+41
+blueprint.png
+Aufgabe
+Type:
+2

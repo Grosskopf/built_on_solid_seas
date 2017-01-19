@@ -1,0 +1,30 @@
+CharacterName:
+Torben
+Dependencies:
+67
+Dependenciespoints:
+0
+Actions:
+0
+Mainfield:
+Moin *, hast du die Werte?
+AnswerW:
+Kannst du mir helfen?
+AnswerA:
+Hier, ich hab es fertig
+AnswerD:
+Bin noch nicht fertig, bis bald
+Backtalk1:
+irgendwo muss da noch was falsch sein, das passt so nicht
+Backtalk2:
+Vielleicht kann dir Jessica helfen? die weiss bei solchen Fragen oft Bescheid
+Item1:
+1
+blueprint.png
+Aufgabe
+Item2:
+56
+blueprint.png
+Aufgabe
+Type:
+2

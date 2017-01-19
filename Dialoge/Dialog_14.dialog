@@ -1,0 +1,26 @@
+CharacterName:
+Mina
+Dependencies:
+3
+Mainfield:
+Hey *, hast du die Berechnungen gemacht?
+AnswerW:
+Kannst du mir helfen?
+AnswerA:
+Hier, ich hab es fertig
+AnswerD:
+Bin noch nicht fertig, bis bald
+Backtalk1:
+Danke für die Arbeit, aber du hast da noch Fehler gemacht, bitte korrigiere die noch schnell
+Backtalk2:
+Vielleicht kann dir Jessica helfen? die weiss bei solchen Fragen oft Bescheid
+Item1:
+1
+
+
+Item2:
+1
+blueprint.png
+Aufgabe
+Type:
+2

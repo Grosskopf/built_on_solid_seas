@@ -1,0 +1,30 @@
+CharacterName:
+Mina
+Dependencies:
+77
+Dependenciespoints:
+4500
+Actions:
+0
+Mainfield:
+Hallo *, ich überlege grad über Fahrzeuge für den Export, ich hab aber noch nie so viel damit gerechnet, kannst du mir helfen?
+AnswerW:
+Was soll ich für dich Tun?
+AnswerA:
+Ok, mach ich
+AnswerD:
+Gerade nicht, bis bald
+Backtalk1:
+
+Backtalk2:
+Ich meine dass eine Umdrehung immer bedeutet, dass sich das Fahrzeug um den Umfang des Rads nach vorne oder nach hinten bewegt, vielleicht hilft dir das was
+Item1:
+67
+blueprint.png
+Aufgabe
+Item2:
+1
+
+
+Type:
+0

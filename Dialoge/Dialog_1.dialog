@@ -1,0 +1,26 @@
+CharacterName:
+Jay
+Dependencies:
+0
+Mainfield:
+Hey, kannst du mir vielleicht Helfen? ich hab vor aufs Schuldach zu gehen, die Schule ist aber 3 Meter Hoch, meine Leiter ist aber 4 Meter lang, ich muss die also mit Abstand aufstellen, nur wie viel Abstand brauch ich? ich hab dir das mal aufgezeichnet, schau am besten mal in deiner Wohnung, da müsstest du die Aufgabe erledigen können
+AnswerW:
+Was soll ich für dich Tun?
+AnswerA:
+Ok, mach ich
+AnswerD:
+Gerade nicht, bis bald
+Backtalk1:
+Du sollst den Abstand zwischen Gebäude und Leiter berechnen, schaus dir auf deinem Zeichenbrett in deinem Haus an, das müsste einfach Satz des Pythagoras sein
+Backtalk2:
+
+Item1:
+0
+blueprint.png
+Aufgabe
+Item2:
+0
+
+
+Type:
+0

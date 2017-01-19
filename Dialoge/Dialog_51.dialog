@@ -1,0 +1,29 @@
+CharacterName:
+Jay
+Dependencies:
+Dependenciespoints:
+0
+Actions:
+2
+Mainfield:
+Hey *, ich hab gehört du bist durch den Test durch? glückwunsch, ich glaub jetzt haben wir auch alles beisammen und Marja kann Antreten
+AnswerW:
+Wie meinst du das genau?
+AnswerA:
+Sehr gut
+AnswerD:
+Ich muss los, bis bald
+Backtalk1:
+Das freut mich, sag am besten mal Marja bescheid, und sprich auch mal mit Maurice
+Backtalk2:
+Jetzt wo genug Menschen auf unserer Seite sind, kann eine Wahl klappen, dann können wir auch endlich das alte Industriegelände nutzen
+Item1:
+1
+blueprint.png
+Aufgabe
+Item2:
+1
+blueprint.png
+Aufgabe
+Type:
+1

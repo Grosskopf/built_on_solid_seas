@@ -1,0 +1,30 @@
+CharacterName:
+Jay
+Dependencies:
+77
+Dependenciespoints:
+4500
+Actions:
+0
+Mainfield:
+Hey, ich hab von Anja gehört, dass wir vielleicht was in der Welt verkaufen könnten um aufmerksamkeit auf uns zu ziehen, am besten sowas wie autos oder Fahrräder, kennst du dich mit Mechanik aus? ich hab da eine Aufgabe die ich berechnet bräuchte, kannst du das machen?
+AnswerW:
+Was soll ich für dich Tun?
+AnswerA:
+Ok, mach ich
+AnswerD:
+Gerade nicht, bis bald
+Backtalk1:
+
+Backtalk2:
+Bereche die Umfänge von den Zahnrädern, wenn ein zahnrad sich einmal dreht, dreht sich ja jeder Punkt von dem Band genau so weit wie der Umfang
+Item1:
+51
+blueprint.png
+Aufgabe
+Item2:
+1
+
+
+Type:
+0

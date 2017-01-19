@@ -1,0 +1,30 @@
+CharacterName:
+Angie
+Dependencies:
+80
+Dependenciespoints:
+0
+Actions:
+0
+Mainfield:
+Das ist ja ganz wunderbar, kannst du vielleicht auch helfen bei den Adaptern? diesmal brauch ich die Flächeninhalte von den beiden Seiten um zu wissen wie viel Wasser gleichzeitig durchpasst
+AnswerW:
+Was soll ich für dich Tun?
+AnswerA:
+Ok, mach ich
+AnswerD:
+Gerade nicht, bis bald
+Backtalk1:
+
+Backtalk2:
+Vielleicht kann dir Jessica helfen? die weiss bei solchen Fragen oft Bescheid
+Item1:
+83
+blueprint.png
+Aufgabe
+Item2:
+1
+blueprint.png
+Aufgabe
+Type:
+0

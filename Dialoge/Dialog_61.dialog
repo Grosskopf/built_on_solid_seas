@@ -1,0 +1,30 @@
+CharacterName:
+Lucia
+Dependencies:
+54
+Dependenciespoints:
+0
+Actions:
+0
+Mainfield:
+Hey, ich hab mal drüber nachgedacht, jetzt wo wir so unsere Insel unabhängiger Machen, sollten wir vielleicht auch ein Wappen haben, um zu zeigen dass wir uns nichts mehr von der Firma sagen lassen, kannst du die letzten Längen nachrechnen? Ist etwas Komplizierter, aber du krichst das schon hin
+AnswerW:
+Was soll ich für dich Tun?
+AnswerA:
+Ok, mach ich
+AnswerD:
+Gerade nicht, bis bald
+Backtalk1:
+
+Backtalk2:
+Berechne mit Längen/Kathetensatz und Pythagoras die letzten Längen :)
+Item1:
+49
+blueprint.png
+Aufgabe
+Item2:
+1
+
+
+Type:
+0

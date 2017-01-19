@@ -1,0 +1,25 @@
+CharacterName:
+Anja
+Dependencies:
+Mainfield:
+Hey *, Hast du schon die letzten Zahlen von der Firma gesehen? immer größer werden die, immer mehr Gewinne, echt beeindruckend, aber trotzdem haben sie das Ding bei uns abgerissen, eigentlich eine ziemliche Frechheit
+AnswerW:
+Wer ist eigentlich diese Firma?
+AnswerA:
+Stimmt schon, schon ein ordentliches Loch in der Insel
+AnswerD:
+Ich muss los, tschüüss
+Backtalk1:
+Jaa, naja vielleicht wars für irgendwas Gut, schade um Marja, dass ihre Eltern jetzt weg sind, aber vielleicht wars auch besser so, man weiss es ja nie :)
+Backtalk2:
+Ach die Firma, das ist ein ziemlich großes Unternehmen, die machen Verpackungen, Plastiktüten, Plastikflaschen, alles was man so aus Öl machen kann, manche sagen das ist ne ziemliche Umweltverschmutzung, aber wer würd schon gern ohne Plastiktüten vom Einkaufen zurückgehen :D
+Item1:
+0
+blueprint.png
+Aufgabe
+Item2:
+0
+blueprint.png
+Aufgabe
+Type:
+1

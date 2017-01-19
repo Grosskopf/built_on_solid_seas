@@ -1,0 +1,30 @@
+CharacterName:
+Fritz
+Dependencies:
+66
+Dependenciespoints:
+0
+Actions:
+0
+Mainfield:
+Hey, hast du die Fläche?
+AnswerW:
+Kannst du mir helfen?
+AnswerA:
+Hier, ich hab es fertig
+AnswerD:
+Bin noch nicht fertig, bis bald
+Backtalk1:
+Nee, irgendwas passt da nicht
+Backtalk2:
+Vielleicht kann dir Jessica helfen? die weiss bei solchen Fragen oft Bescheid
+Item1:
+1
+
+
+Item2:
+61
+blueprint.png
+Aufgabe
+Type:
+2

@@ -1,0 +1,25 @@
+CharacterName:
+Maurice
+Dependencies:
+Mainfield:
+Guten Morgen *, du ich hab leider grad echt keine Zeit für dich,  Bürgermeister zu sein ist schon sehr anstrengend, immer dieses 'Maurice, hilf mal hier', 'Maurice, hilf mal da', ja gut das hab ich mir ausgedacht, aber ich hab wirklich keine Zeit..
+AnswerW:
+Wie meinst du das genau?
+AnswerA:
+Ach das wird schon wieder
+AnswerD:
+Ich muss los, bis bald
+Backtalk1:
+Ja ich weiss ich laber viel vor mich hin, danke dass du mir zuhörst, ich mach mich dann mal wieder auf, bis bald
+Backtalk2:
+Das willst du garnicht wissen, die Firma hier, die Firma da, seit die Weg sind ist alles viel schlimmer geworden, wenn es das überhaupt gibt, aber ich mein, was soll ich machen? ich hab ja nie was gelernt -schnief-...
+Item1:
+0
+blueprint.png
+Aufgabe
+Item2:
+0
+blueprint.png
+Aufgabe
+Type:
+1

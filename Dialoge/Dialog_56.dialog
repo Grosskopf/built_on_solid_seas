@@ -1,0 +1,29 @@
+CharacterName:
+Torben
+Dependencies:
+Dependenciespoints:
+0
+Actions:
+0
+Mainfield:
+Moin *, glückwunsch für eure ersten Erfolge, wenn wir das jetzt anpacken wollen mit der Insel, brauchen wir vielleicht noch was an Werkzeug, mit dem Werkzeug kannst du dann auch Inselteile bauen, Wände in dem alten Fabrikgelände ziehen, was du so brauchst
+AnswerW:
+Was soll ich für dich Tun?
+AnswerA:
+Ok, mach ich
+AnswerD:
+Gerade nicht, bis bald
+Backtalk1:
+
+Backtalk2:
+Berechne mal kurz die letzten Längen von diesem Winkel, dann können wir bald schon anfangen zu bauen :)
+Item1:
+30
+blueprint.png
+Aufgabe
+Item2:
+1
+
+
+Type:
+0

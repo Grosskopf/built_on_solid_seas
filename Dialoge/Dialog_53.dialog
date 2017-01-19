@@ -1,0 +1,30 @@
+CharacterName:
+Maurice
+Dependencies:
+52
+Dependenciespoints:
+0
+Actions:
+0
+Mainfield:
+Ich hab schon gehört, Marja macht also ernst, kannst du vielleicht noch eine kleine Kleinigkeit für mich erledigen? ich würde bevor ich ihr das überlasse noch gerne Solaranlagen aufbauen, wir haben ja noch einen hohen Strombedarf, gerade wenn wir recyclen wollen, das wird zwar unsere Beziehungen zur Firma schwächen, aber ich vermute Marja hat eh nicht vor, mit denen zusammen zu arbeiten
+AnswerW:
+Was soll ich für dich Tun?
+AnswerA:
+Ok, mach ich
+AnswerD:
+Gerade nicht, bis bald
+Backtalk1:
+Danke für die Arbeit, aber du hast da noch Fehler gemacht, bitte korrigiere die noch schnell
+Backtalk2:
+Berechne die Höhe für das aufstellen von den Solaranlagen, schau dir mal den Höhensatz an, vielleicht hilft dir der weiter
+Item1:
+37
+blueprint.png
+Aufgabe
+Item2:
+1
+blueprint.png
+Aufgabe
+Type:
+0

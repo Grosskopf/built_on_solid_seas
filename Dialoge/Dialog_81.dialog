@@ -1,0 +1,30 @@
+CharacterName:
+Mina
+Dependencies:
+75
+Dependenciespoints:
+0
+Actions:
+0
+Mainfield:
+Guten Morgen *, hast du schon alles durchgerechnet?
+AnswerW:
+Kannst du mir helfen?
+AnswerA:
+Hier, ich hab es fertig
+AnswerD:
+Bin noch nicht fertig, bis bald
+Backtalk1:
+Irgendwie passt das nicht ganz, ich bekomm die Menge plastik so nicht in die Form gepresst, magst du nochmal nachrechnen?
+Backtalk2:
+Vielleicht kann dir Jessica helfen? die weiss bei solchen Fragen oft Bescheid
+Item1:
+1
+
+
+Item2:
+79
+blueprint.png
+Aufgabe
+Type:
+2

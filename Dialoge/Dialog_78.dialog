@@ -1,0 +1,30 @@
+CharacterName:
+Fritz
+Dependencies:
+73
+Dependenciespoints:
+0
+Actions:
+0
+Mainfield:
+Ach hi *
+AnswerW:
+Kannst du mir helfen?
+AnswerA:
+Hier, ich hab es fertig
+AnswerD:
+Bin noch nicht fertig, bis bald
+Backtalk1:
+irgendwie passt das nicht auf die Brille
+Backtalk2:
+Vielleicht kann dir Jessica helfen? die weiss bei solchen Fragen oft Bescheid
+Item1:
+1
+
+
+Item2:
+82
+blueprint.png
+Aufgabe
+Type:
+2

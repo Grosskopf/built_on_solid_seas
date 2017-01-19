@@ -1,0 +1,30 @@
+CharacterName:
+Fritz
+Dependencies:
+63
+Dependenciespoints:
+0
+Actions:
+0
+Mainfield:
+Hey * ich hab gehört, du kannst jetzt auch mit Kreisberechnung anfangen? Das interessiert mich sehr, im vergleich zu anderen Formen haben Kreise ja den geringsten Umfang im Verhältniss zur Fläche, kannst du mir eine Fläche ausrechnen?
+AnswerW:
+Was soll ich für dich Tun?
+AnswerA:
+Ok, mach ich
+AnswerD:
+Gerade nicht, bis bald
+Backtalk1:
+
+Backtalk2:
+Berechne die Fläche wie ich sie dir hier gegeben hab
+Item1:
+61
+blueprint.png
+Aufgabe
+Item2:
+1
+
+
+Type:
+0

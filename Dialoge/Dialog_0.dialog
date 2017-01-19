@@ -1,0 +1,28 @@
+CharacterName:
+Jay
+Dependencies:
+Mainfield:
+Hey *, ich bin Jay, wir kennen uns ja eigentlich schon von früher, aber der Programmierer hat wohl keine Lust gehabt mich in aufwendigen Action-szenen vorzustellen :D
+Ich kann dir hin und wieder was über die komischen Gestalten dieser Insel sagen :)
+AnswerW:
+Wer Lebt denn hier so?
+AnswerA:
+Aha ^_^
+AnswerD:
+Ich muss los, bis bald
+Backtalk1:
+Es gibt hier nen kleinen Haufen sehr eigenartiger Menschen, Meine Mutter kümmert sich um die Schule, die kann dir bei Aufgaben Helfen,
+Die Mütter von Fritz (Fritz sagt nicht viel) machen auch ganz viel, Mina beackert die Werkstatt, Anja kümmert sich darum dass der Handel läuft.
+Dann gibt es da noch den Bürgermeister, den Maurice, der ist ein bischen Überfordert mit allem seit seiner Scheidung, aber unter uns, Marja plant ihn ja schon abzulösen
+Backtalk2:
+:D ich seh schon ich Quatsch wieder zu viel
+Item1:
+0
+
+
+Item2:
+0
+blueprint.png
+Aufgabe
+Type:
+1

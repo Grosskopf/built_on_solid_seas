@@ -1,0 +1,30 @@
+CharacterName:
+Torben
+Dependencies:
+63
+Dependenciespoints:
+0
+Actions:
+0
+Mainfield:
+Hey, jetzt wo du auch Kreise berechnen kannst, können wir dir vielleicht helfen ein paar deiner Türme zu verbessern, kannst du mir helfen diese Längen und Winkel zu berechnen?
+AnswerW:
+Was soll ich für dich Tun?
+AnswerA:
+Ok, mach ich
+AnswerD:
+Gerade nicht, bis bald
+Backtalk1:
+
+Backtalk2:
+Berechne die Winkel/Längen die ich noch so brauche
+Item1:
+56
+blueprint.png
+Aufgabe
+Item2:
+1
+
+
+Type:
+0

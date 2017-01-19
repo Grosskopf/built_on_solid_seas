@@ -1,0 +1,28 @@
+CharacterName:
+Mina
+Dependencies:
+27
+Dependenciespoints:
+0
+Mainfield:
+Hey *, ich hab ein paar möglichkeiten gefunden, auf Plastikmüll zu bauen, der einzige Rohstoff neben Salzwasser den wir hier ohne Ende haben, hilfst du mir kurz ein paar Berechnungen anzustellen?
+AnswerW:
+Was soll ich für dich Tun?
+AnswerA:
+Ok, mach ich
+AnswerD:
+Gerade nicht, bis bald
+Backtalk1:
+
+Backtalk2:
+Ich müsste von ein paar wänden den Flächeninhalt wissen,  damit ich weiss wie viel Plastik ich brauche
+Item1:
+8
+blueprint.png
+Aufgabe
+Item2:
+1
+
+
+Type:
+0

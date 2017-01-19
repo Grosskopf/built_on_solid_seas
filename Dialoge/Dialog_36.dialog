@@ -1,0 +1,28 @@
+CharacterName:
+Maurice
+Dependencies:
+28
+Dependenciespoints:
+0
+Mainfield:
+Hey *, ich hab schon gehört, Marja plant was, sag das niemandem, aber ich wäre so erleichtert, wenn ich das nicht mehr machen müsste, ich glaub sie kann auch besser mit der Firma verhandeln, ich hätte aber noch eine Bitte an dich, ich soll ein Haus streichen lassen, und muss noch berechnen wie viel Fläche eine Wand hat, ich habs dir mal aufgezeichnet
+AnswerW:
+Was soll ich für dich Tun?
+AnswerA:
+Ok, mach ich
+AnswerD:
+Gerade nicht, bis bald
+Backtalk1:
+
+Backtalk2:
+Berechne am besten die fehlende Fläche, dann kann ich auch beruhigt in Ruhestand gehen
+Item1:
+14
+blueprint.png
+Aufgabe
+Item2:
+1
+
+
+Type:
+0

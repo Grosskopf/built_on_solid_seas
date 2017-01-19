@@ -1,0 +1,30 @@
+CharacterName:
+Mina
+Dependencies:
+68
+Dependenciespoints:
+0
+Actions:
+0
+Mainfield:
+Na *, hast du den Winkel raus?
+AnswerW:
+Kannst du mir helfen?
+AnswerA:
+Hier, ich hab es fertig
+AnswerD:
+Bin noch nicht fertig, bis bald
+Backtalk1:
+Naja irgendwie passt der nicht ganz, die Winkelsumme in nem Dreieck ist ja immer 180°
+Backtalk2:
+Vielleicht kann dir Jessica helfen? die weiss bei solchen Fragen oft Bescheid
+Item1:
+1
+
+
+Item2:
+57
+blueprint.png
+Aufgabe
+Type:
+2
